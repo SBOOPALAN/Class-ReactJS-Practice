@@ -1,0 +1,15 @@
+.home img{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 30px; 
+}
+
+.home h1{
+    margin-bottom: 200px;
+}
+
+.home img:hover{
+    border: solid 2px black;
+}
